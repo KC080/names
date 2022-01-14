@@ -92,12 +92,9 @@ better
 best
 bewitched
 big
-big-hearted
 biodegradable
-bite-sized
 bitter
 black
-black-and-white
 bland
 blank
 blaring
@@ -299,7 +296,6 @@ eager
 earnest
 early
 easy
-easy-going
 ecstatic
 edible
 educated
@@ -348,8 +344,6 @@ experienced
 expert
 extraneous
 extroverted
-extra-large
-extra-small
 fabulous
 failing
 faint
@@ -363,8 +357,6 @@ fancy
 fantastic
 far
 faraway
-far-flung
-far-off
 fast
 fat
 fatal
@@ -449,7 +441,6 @@ gifted
 giving
 glamorous
 glaring
-glass
 gleaming
 gleeful
 glistening
@@ -460,7 +451,6 @@ glossy
 glum
 golden
 good
-good-natured
 gorgeous
 graceful
 gracious
@@ -497,9 +487,7 @@ handmade
 handsome
 handy
 happy
-happy-go-lucky
 hard
-hard-to-find
 harmful
 harmless
 harmonious
@@ -517,8 +505,7 @@ helpful
 helpless
 hidden
 hideous
-high
-high-level
+hig
 hilarious
 hoarse
 hollow
@@ -549,8 +536,6 @@ idolized
 ignorant
 ill
 illegal
-ill-fated
-ill-informed
 illiterate
 illustrious
 imaginary
@@ -608,7 +593,6 @@ irritating
 itchy
 jaded
 jagged
-jam-packed
 jaunty
 jealous
 jittery
@@ -1111,7 +1095,6 @@ superb
 superficial
 superior
 supportive
-sure-footed
 surprised
 suspicious
 svelte
@@ -1285,14 +1268,6 @@ weepy
 weighty
 weird
 welcome
-well-documented
-well-groomed
-well-informed
-well-lit
-well-made
-well-off
-well-to-do
-well-worn
 wet
 which
 whimsical
@@ -1303,7 +1278,6 @@ whole
 whopping
 wicked
 wide
-wide-eyed
 wiggly
 wild
 willing
