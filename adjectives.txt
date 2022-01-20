@@ -157,7 +157,7 @@ circular
 classic
 clean
 clear
-clear-cut
+clearcut
 clever
 close
 closed
@@ -655,7 +655,7 @@ loathsome
 lone
 lonely
 long
-long-term
+longterm
 loose
 lopsided
 lost
@@ -672,7 +672,7 @@ lumpy
 lustrous
 luxurious
 mad
-made-up
+madeup
 magnificent
 majestic
 major
@@ -776,7 +776,7 @@ offbeat
 offensive
 official
 old
-old-fashioned
+oldfashioned
 only
 open
 optimal
@@ -888,7 +888,7 @@ queasy
 querulous
 questionable
 quick
-quick-witted
+quickwitted
 quiet
 quintessential
 quirky
@@ -965,10 +965,9 @@ scratchy
 scrawny
 second
 secondary
-second-hand
+secondhand
 secret
-self-assured
-self-reliant
+selfreliant
 selfish
 sentimental
 separate
@@ -990,7 +989,7 @@ shocked
 shocking
 shoddy
 short
-short-term
+shortterm
 showy
 shrill
 shy
